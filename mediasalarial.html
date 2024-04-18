@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valores Orçamentários</title>
+    <link rel="stylesheet" href="css/media.css">
+</head>
+<body>
+    <header>
+        <h1>Orçamento de Projetos</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Página Principal</a></li>
+                <li><a href="#">Média Salarial</a></li>
+                <li><a href="orcamento.html">Orçamento</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="quadro">
+            <h2>Média</h2>
+            <h4>Aqui você irá encontrar todas as médias salariais dos profissionais da área da computação.</h4>
+            <label for="cargos">Selecione um cargo:</label>
+            <select id="cargos">
+                <option value="" disabled selected>Selecione um cargo</option>
+            </select>
+            <h3>A media salarial é de: </h3>
+            <div id="mediaSalarial"></div>
+        </div>
+    </main>
+
+    <script src="js/medias.js"></script>
+</body>
+</html>

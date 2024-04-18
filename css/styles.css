@@ -1,0 +1,138 @@
+body {
+    background-color: #c6deecc7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #22748d;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ddd;
+}
+
+
+main {
+    margin-top: 200px;
+    text-align: left; /* Ajuste para alinhar o texto à esquerda */
+}
+
+.quadro {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin: 40px 20px; /* Ajuste para o quadro ficar à esquerda */
+    max-width: 800px;
+    width: calc(100% - 40px); /* Ajuste para manter a largura do quadro */
+}
+
+.quadro h2 {
+    color: #333;
+    margin-top: 0;
+    font-size: 24px;
+    text-align: center;
+}
+
+.quadro p {
+    color: #2b2a2a;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Cor de fundo semi-transparente */
+    z-index: 9998; /* Z-index menor que o popup para que fique por trás dele */
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fefefe;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+}
+
+.popup p {
+    margin-top: 0;
+}
+
+.popup-close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.popup-close:hover,
+.popup-close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.profissao-btn:hover {
+    color: darkblue;
+}
+
+.foto {
+    max-width: 10000px; /* Ajuste a largura máxima da imagem para não ultrapassar a largura do quadro */
+    margin-top: px; /* Margem superior para alinhar com a distância do cabeçalho */
+    float: right; /* Alinha a imagem à direita */
+    margin-right: 70px; /* Espaçamento à direita para separar a imagem dos quadros */
+    margin-bottom: 20px; /* Espaçamento inferior para separar a imagem dos quadros */
+}
+
+.foto1 {
+    float: right;
+    display: block; /* Para garantir que a imagem ocupe uma linha inteira */
+    clear: both; /* Limpa os floats anteriores */
+    margin-top: 20px; /* Ajuste o valor conforme necessário para o espaçamento desejado */
+    margin-right: 70px; /* Espaçamento à direita para separar a imagem dos quadros */
+    margin-bottom: 20px;
+}

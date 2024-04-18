@@ -1,0 +1,47 @@
+Junior:
+
+Analista de Sistemas: R$ 2500,00
+Desenvolvedor de Software: R$ 2500,00
+Engenheiro de Software: R$ 2750,00
+Analista de Redes: R$ 2500,00
+Suporte Técnico: R$ 2300,00
+Gerente de Projeto de TI: R$ 3500,00
+Arquiteto de Software: R$ 3500,00
+Cientista de Dados: R$ 3500,00
+Engenheiro de Dados: R$ 3500,00
+Especialista em IA/ML: R$ 3500,00
+Designer de UX/UI: R$ 3000,00
+Analista de Testes: R$ 2500,00
+DevOps Engineer: R$ 3500,00
+
+Pleno:
+
+Analista de Sistemas: R$ 4500,00
+Desenvolvedor de Software: R$ 4500,00
+Engenheiro de Software: R$ 5000,00
+Analista de Redes: R$ 4500,00
+Suporte Técnico: R$ 3650,00
+Gerente de Projeto de TI: R$ 6000,00
+Arquiteto de Software: R$ 6000,00
+Cientista de Dados: R$ 6000,00
+Engenheiro de Dados: R$ 6000,00
+Especialista em IA/ML: R$ 6000,00
+Designer de UX/UI: R$ 5000,00
+Analista de Testes: R$ 4250,00
+DevOps Engineer: R$ 6000,00
+
+Senior:
+
+Analista de Sistemas: R$ 6750,00
+Desenvolvedor de Software: R$ 6750,00
+Engenheiro de Software: R$ 7500,00
+Analista de Redes: R$ 6750,00
+Suporte Técnico: R$ 5250,00
+Gerente de Projeto de TI: R$ 9250,00
+Arquiteto de Software: R$ 9250,00
+Cientista de Dados: R$ 9250,00
+Engenheiro de Dados: R$ 9250,00
+Especialista em IA/ML: R$ 9250,00
+Designer de UX/UI: R$ 7750,00
+Analista de Testes: R$ 6750,00
+DevOps Engineer: R$ 9250,00

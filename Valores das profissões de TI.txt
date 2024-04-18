@@ -1,0 +1,34 @@
+
+
+ Profissão			                  Trainee 				     Pleno			              Sênior 
+
+Analista de Sistemas 	           R$ 2.000 - R$ 3.000 		R$ 3.500 - R$ 5.500 	R$ 5.000 - R$ 8.500 
+
+Desenvolvedor de Software          R$ 2.000 - R$ 3.000 		R$ 3.500 - R$ 5.500 	R$ 5.000 - R$ 8.500
+
+Engenheiro de Software             R$ 2.500 - R$ 3.500 		R$ 4.000 - R$ 6.000 	R$ 6.000 - R$ 9.500 
+
+Administrador de BD                R$ 2.000 - R$ 3.000	 	R$ 3.500 - R$ 5.500	 	 R$ 5.000 - R$ 8.500 
+
+Analista de Redes 	               R$ 2.000 - R$ 3.000	 	R$ 3.500 - R$ 5.500 	R$ 5.000 - R$ 8.500 
+
+Especialista em Segurança          R$ 2.500 - R$ 3.500		R$ 4.500 - R$ 6.500     R$ 6.500 - R$ 10.000 
+
+Suporte Técnico 		           R$ 1.800 - R$ 2.800		R$ 2.800 - R$ 4.500 	R$ 4.000 - R$ 6.500 
+
+Gerente de Projeto de TI 	       R$ 3.000 - R$ 4.000  	R$ 5.000 - R$ 7.000 	R$ 7.500 - R$ 11.000 
+
+Arquiteto de Software 	           R$ 3.000 - R$ 4.000 		R$ 5.000 - R$ 7.000 	R$ 7.500 - R$ 11.000 
+
+Cientista de Dados 	 	           R$ 3.000 - R$ 4.000 		R$ 5.000 - R$ 7.000  	R$ 7.500 - R$ 11.000 
+
+Engenheiro de Dados	               R$ 3.000 - R$ 4.000  	R$ 5.000 - R$ 7.000 	R$ 7.500 - R$ 11.000 
+
+Especialista em IA/ML	           R$ 3.000 - R$ 4.000 		R$ 5.000 - R$ 7.000 	R$ 7.500 - R$ 11.000 
+
+Designer de UX/UI 		           R$ 2.500 - R$ 3.500 		R$ 4.000 - R$ 6.000 	R$ 6.000 - R$ 9.500 
+
+Analista de Testes 		           R$ 2.000 - R$ 3.000 		R$ 3.500 - R$ 5.500 	R$ 5.000 - R$ 8.500 
+
+DevOps Engineer 		           R$ 3.000 - R$ 4.000 		R$ 5.000 - R$ 7.000 	R$ 7.500 - R$ 11.000 
+

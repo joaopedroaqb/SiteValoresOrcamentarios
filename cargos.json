@@ -1,0 +1,109 @@
+{
+    "cargos": [
+      {
+        "cargo": "Analista de Sistemas",
+        "nivel": {
+          "Junior": {"salario": "R$ 2.000 - R$ 3.000"},
+          "Pleno": {"salario": "R$ 3.500 - R$ 5.500"},
+          "Senior": {"salario": "R$ 5.000 - R$ 8.500"}
+        }
+      },
+      {
+        "cargo": "Desenvolvedor de Software",
+        "nivel": {
+          "Junior": {"salario": "R$ 2.000 - R$ 3.000"},
+          "Pleno": {"salario": "R$ 3.500 - R$ 5.500"},
+          "Senior": {"salario": "R$ 5.000 - R$ 8.500"}
+        }
+      },
+      {
+        "cargo": "Engenheiro de Software",
+        "nivel": {
+          "Junior": {"salario": "R$ 2.000 - R$ 3.500"},
+          "Pleno": {"salario": "R$ 4.000 - R$ 6.000"},
+          "Senior": {"salario": "R$ 6.000 - R$ 9.000"}
+        }
+      },
+      {
+        "cargo": "Analista de Redes",
+        "nivel": {
+          "Junior": {"salario": "R$ 2.000 - R$ 3.000"},
+          "Pleno": {"salario": "R$ 3.500 - R$ 5.500"},
+          "Senior": {"salario": "R$ 5.000 - R$ 8.500"}
+        }
+      },
+      {
+        "cargo": "Suporte Técnico",
+        "nivel": {
+          "Junior": {"salario": "R$ 1.800 - R$ 2.800"},
+          "Pleno": {"salario": "R$ 2.800 - R$ 4.500"},
+          "Senior": {"salario": "R$ 4.000 - R$ 6.500"}
+        }
+      },
+      {
+        "cargo": "Gerente de Projeto de TI",
+        "nivel": {
+          "Junior": {"salario": "R$ 3.000 - R$ 4.000"},
+          "Pleno": {"salario": "R$ 5.000 - R$ 7.000"},
+          "Senior": {"salario": "R$ 7.500 - R$ 11.000"}
+        }
+      },
+      {
+        "cargo": "Arquiteto de Software",
+        "nivel": {
+          "Junior": {"salario": "R$ 3.000 - R$ 4.000"},
+          "Pleno": {"salario": "R$ 5.000 - R$ 7.000"},
+          "Senior": {"salario": "R$ 7.500 - R$ 11.000"}
+        }
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "nivel": {
+          "Junior": {"salario": "R$ 3.000 - R$ 4.000"},
+          "Pleno": {"salario": "R$ 5.000 - R$ 7.000"},
+          "Senior": {"salario": "R$ 7.500 - R$ 11.000"}
+        }
+      },
+      {
+        "cargo": "Engenheiro de Dados",
+        "nivel": {
+          "Junior": {"salario": "R$ 3.000 - R$ 4.000"},
+          "Pleno": {"salario": "R$ 5.000 - R$ 7.000"},
+          "Senior": {"salario": "R$ 7.500 - R$ 11.000"}
+        }
+      },
+      {
+        "cargo": "Especialista em IA/ML",
+        "nivel": {
+          "Junior": {"salario": "R$ 3.000 - R$ 4.000"},
+          "Pleno": {"salario": "R$ 5.000 - R$ 7.000"},
+          "Senior": {"salario": "R$ 7.500 - R$ 11.000"}
+        }
+      },
+      {
+        "cargo": "Designer de UX/UI",
+        "nivel": {
+          "Junior": {"salario": "R$ 2.500 - R$ 3.500"},
+          "Pleno": {"salario": "R$ 4.000 - R$ 6.000"},
+          "Senior": {"salario": "R$ 6.000 - R$ 9.500"}
+        }
+      },
+      {
+        "cargo": "Analista de Testes",
+        "nivel": {
+          "Junior": {"salario": "R$ 2.000 - R$ 3.000"},
+          "Pleno": {"salario": "R$ 3.500 - R$ 5.000"},
+          "Senior": {"salario": "R$ 5.000 - R$ 8.500"}
+        }
+      },
+      {
+        "cargo": "DevOps Engineer",
+        "nivel": {
+          "Junior": {"salario": "R$ 3.000 - R$ 4.000"},
+          "Pleno": {"salario": "R$ 5.000 - R$ 7.000"},
+          "Senior": {"salario": "R$ 7.500 - R$ 11.000"}
+        }
+      }
+    ]
+  }
+  

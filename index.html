@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valores Orçamentários</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Orçamento de Projetos</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Página Principal</a></li>
+                <li><a href="mediasalarial.html">Média Salarial</a></li>
+                <li><a href="orcamento.html">Orçamento</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <img src="calculadora2.png" alt="Foto calculadora" class="foto">
+        <img src="caluladora3.png" alt="Foto calculadora" class="foto1">
+                
+        <div class="quadro">
+            <h2>Valores Orçamentários</h2>
+            <p>Bem-vindo ao Orçamento de Projetos! Aqui, fornecemos uma ferramenta completa para auxiliar em todos os aspectos financeiros relacionados ao 
+                desenvolvimento de projetos e aplicativos na área da computação.</p>
+
+            <p>Quando você está iniciando um novo empreendimento digital, é crucial entender os custos envolvidos, especialmente 
+                quando se trata dos talentos necessários para trazer sua visão à vida. É por isso que oferecemos uma visão detalhada da média salarial de cada 
+                profissional na área da computação. Quer você precise de desenvolvedores front-end, back-end, designers de UI/UX, gerentes de projeto ou especialistas em 
+                segurança da informação, fornecemos as informações salariais necessárias para ajudá-lo a planejar seu orçamento com confiança.</p>
+                
+            <p>Além disso, nosso site vai além ao calcular o gasto total estimado para sua equipe. Com nossa calculadora integrada, você pode inserir o número de profissionais 
+                de cada especialidade que deseja contratar e obter uma estimativa precisa dos custos associados. Isso permite uma melhor previsão financeira e ajuda na tomada de decisões 
+                estratégicas para o seu projeto.</p>
+                
+            <p>Não importa se você é um empreendedor solo, um gerente de equipe ou um investidor, o Orçamento de Projetos está aqui para 
+                simplificar o processo de planejamento financeiro e garantir que você esteja preparado para o sucesso em sua jornada digital. 
+                Comece a explorar agora e leve seus projetos ao próximo nível com confiança e clareza financeira!</p>
+            
+            </div>
+            <div class="quadro">
+                    <h2>Profissões</h2>
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('desenvolvedorPopup')">Desenvolvedores de Software</strong>
+                    </p>
+                    <div id="desenvolvedorPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('desenvolvedorPopup')">&times;</span>
+                        <p>Responsáveis por escrever, testar e manter o código que forma a base de aplicativos e sistemas de software. Eles traduzem requisitos de negócios em código de computador e colaboram com designers e outros membros da equipe de desenvolvimento para criar soluções funcionais e eficientes.</p>
+                    </div>        
+                        
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('designersPopup')">Designers de UI/UX</strong>
+                    </p>
+                    <div id="designersPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('designersPopup')">&times;</span>
+                        <p>Concentram-se na experiência do usuário e na interface do usuário de um produto ou sistema. Eles criam designs visuais atraentes e intuitivos que facilitam a interação dos usuários com aplicativos, sites e outras plataformas digitais, garantindo uma experiência de usuário satisfatória.</p>
+                    </div>
+                        
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('engenheirosPopup')">Engenheiros de Software</strong>
+                    </p>
+                    <div id="engenheirosPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('engenheirosPopup')">&times;</span>
+                        <p>Encarregados de projetar e desenvolver sistemas de software complexos, incluindo arquitetura, infraestrutura e componentes de software. Eles colaboram com outros membros da equipe para garantir que os sistemas sejam escaláveis, seguros e de alta qualidade.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('especialistasBancoDadosPopup')">Especialistas em Banco de Dados</strong>
+                    </p>
+                    <div id="especialistasBancoDadosPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('especialistasBancoDadosPopup')">&times;</span>
+                        <p>Responsáveis pela criação, manutenção e otimização de bancos de dados que armazenam e organizam dados de forma eficiente. Eles projetam esquemas de banco de dados, implementam consultas eficazes e garantem a integridade e segurança dos dados.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('arquitetosSistemasPopup')">Arquitetos de Sistemas</strong>
+                    </p>
+                    <div id="arquitetosSistemasPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('arquitetosSistemasPopup')">&times;</span>
+                        <p>Projetam a arquitetura de sistemas de software e infraestrutura de TI para garantir que atendam aos requisitos de negócios, sejam escaláveis, seguros e eficientes. Eles colaboram com equipes de desenvolvimento e operações para garantir a integração perfeita de sistemas e aplicativos.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('testadoresQualidadePopup')">Testadores de Qualidade (QA)</strong>
+                    </p>
+                    <div id="testadoresQualidadePopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('testadoresQualidadePopup')">&times;</span>
+                        <p>Responsáveis por garantir a qualidade e funcionalidade de aplicativos e sistemas de software por meio de testes rigorosos. Eles identificam e relatam bugs, criam e executam casos de teste e trabalham com desenvolvedores para corrigir problemas antes do lançamento.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('gerentesProjetoPopup')">Gerentes de Projeto</strong>
+                    </p>
+                    <div id="gerentesProjetoPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('gerentesProjetoPopup')">&times;</span>
+                        <p>Supervisionam e coordenam o desenvolvimento de projetos de software, desde o planejamento até a implementação. Eles definem metas, alocação de recursos, gerenciam prazos e garantem que os projetos sejam concluídos dentro do orçamento e dos requisitos.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('especialistasSegurancaInformacaoPopup')">Especialistas em Segurança da Informação</strong>
+                    </p>
+                    <div id="especialistasSegurancaInformacaoPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('especialistasSegurancaInformacaoPopup')">&times;</span>
+                        <p>Responsáveis por proteger os sistemas de informação de uma organização contra ameaças cibernéticas. Eles desenvolvem e implementam medidas de segurança, monitoram atividades suspeitas e respondem a incidentes de segurança.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('analistasDadosPopup')">Analistas de Dados</strong>
+                    </p>
+                    <div id="analistasDadosPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('analistasDadosPopup')">&times;</span>
+                        <p>Coletam, processam e analisam dados para obter insights valiosos que possam informar decisões de negócios. Eles utilizam ferramentas e técnicas de análise de dados para identificar padrões, tendências e oportunidades dentro dos conjuntos de dados.</p>
+                    </div>
+                    
+                    <p>
+                        <strong class="profissao-btn" onclick="abrirPopup('administradoresSistemasPopup')">Administradores de Sistemas</strong>
+                    </p>
+                    <div id="administradoresSistemasPopup" class="popup">
+                        <span class="popup-close" onclick="fecharPopup('administradoresSistemasPopup')">&times;</span>
+                        <p>Responsáveis pela configuração, manutenção e segurança dos sistemas de computadores e redes de uma organização. Eles garantem que os sistemas estejam operacionais, atualizados e protegidos contra falhas e ameaças de segurança.</p>
+                    </div>
+                        
+                    <p>Esses profissionais desempenham papéis essenciais no desenvolvimento, implementação e manutenção de sistemas 
+                        de software e infraestrutura de TI, garantindo o funcionamento eficiente e seguro das operações de uma empresa de tecnologia.
+                        </p>
+                        
+                </div>
+            </main>
+                </div>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>
